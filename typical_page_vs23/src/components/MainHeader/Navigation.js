@@ -22,5 +22,5 @@ const Navigation = (props) => {
         </nav>
     )
 }
-
+/* export*/
 export default Navigation
